@@ -1,7 +1,8 @@
 # To-Do List Application 📝
 
 ## Overview 👀
-This To-Do List application allows users to manage their daily tasks efficiently. It's built using HTML, CSS, and JavaScript, following a beginner-friendly tutorial on YouTube. This project is perfect for anyone looking to understand the basics of web development and task management applications.
+This To-Do List application allows users to manage their daily tasks efficiently. It's built using HTML, CSS, and JavaScript, following a beginner-friendly tutorial on YouTube.
+This project is perfect for anyone looking to understand the basics of web development and task management applications.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
